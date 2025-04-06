@@ -2,6 +2,7 @@
 
 A specialized implementation of TransUNet with targeted enhancements for accurate segmentation of thin vascular structures, specifically Pulmonary Arteries (PA), in medical images.
 
+![alt text](image.png)
 ## 🌟 Key Features
 
 - **Attention-enhanced skip connections** for focusing on thin PA structures
