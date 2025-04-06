@@ -1,0 +1,33 @@
+# Ignore checkpoint folders
+checkpoints_1/
+checkpoints_enhanced/
+checkpoints_enhanced_Focal/
+checkpoints_enhanced_Focal_attention/
+
+# Ignore data, logs, model and wandb folders
+DATA/
+logs/
+model/
+wandb/
+
+# Common Python ignores
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
